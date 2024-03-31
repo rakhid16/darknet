@@ -1,0 +1,7 @@
+dataset/train/coba_0_0.png
+dataset/train/coba_0_500.png
+dataset/train/coba_0_1000.png
+dataset/train/coba_0_1500.png
+dataset/train/coba_0_2000.png
+dataset/train/coba_500_0.png
+dataset/train/coba_500_500.png

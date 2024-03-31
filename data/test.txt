@@ -1,0 +1,2 @@
+dataset/test/coba_500_1000.png
+dataset/test/coba_500_1500.png
