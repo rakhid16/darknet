@@ -1,0 +1,5 @@
+classes = 1
+train = data/train_car_swimming_pool.txt
+valid = data/valid_car_swimming_pool.txt
+names = data/saudi_vehicle.names
+backup = backup_car_swimming_pool/
