@@ -1,0 +1,10 @@
+dataset_synthetic_car/test/3962.png
+dataset_synthetic_car/test/2852.png
+dataset_synthetic_car/test/3025.png
+dataset_synthetic_car/test/3434.png
+dataset_synthetic_car/test/2950.png
+dataset_synthetic_car/test/3318.png
+dataset_synthetic_car/test/3317.png
+dataset_synthetic_car/test/3883.png
+dataset_synthetic_car/test/4195.png
+dataset_synthetic_car/test/3375.png

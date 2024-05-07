@@ -1,0 +1,5 @@
+dataset_synthetic_car/valid/4412.png
+dataset_synthetic_car/valid/4567.png
+dataset_synthetic_car/valid/4320.png
+dataset_synthetic_car/valid/4356.png
+dataset_synthetic_car/valid/4552.png
