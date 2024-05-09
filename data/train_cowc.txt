@@ -187,7 +187,6 @@ dataset_cowc/train/Selwyn_BX22_Tile_RIGHT_15cm_0003_201_png.rf.50ffa1914761bdb84
 dataset_cowc/train/12TVL120100-CROP_15_png.rf.0e3db6345c335dc347f5a03ad4f1bc0b.jpg
 dataset_cowc/train/Selwyn_BX22_Tile_RIGHT_15cm_0003_162_png.rf.fd736516a1287f9491bfe6413b7b7022.jpg
 dataset_cowc/train/12TVL240120_56_png.rf.0adfcf12456036ebdadd8efd61e8b016.jpg
-dataset_cowc/train/.DS_Store
 dataset_cowc/train/12TVL180140_39_png.rf.4cc194a181b1fd4cb86fb789220fa438.jpg
 dataset_cowc/train/Selwyn_BX22_Tile_LEFT_15cm_0004_153_png.rf.ff8e0c2b601f8111e9402bd0038d5f21.jpg
 dataset_cowc/train/12TVL120100-CROP_62_png.rf.024232ccb50883568afa7c6114069c26.jpg
